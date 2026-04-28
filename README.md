@@ -102,4 +102,4 @@ Features of the Grid Tab:
 	Bookmark for Full Data View:
 •	A "View Full Data" bookmark to toggle between filtered drill-through data and the complete dataset.
 •	Allows users to reset filters and see all records easily.
-Dashboard Preview) (https://github.com/Teja5800/Uber-Ride-Data-Analysis/blob/main/uber%20%20analysis%20ss.png)
+[Dashboard Preview] (https://github.com/Teja5800/Uber-Ride-Data-Analysis/blob/main/uber%20%20analysis%20ss.png)
